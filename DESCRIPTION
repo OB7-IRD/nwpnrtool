@@ -1,0 +1,35 @@
+Package: nwpnrtool
+Type: Package
+Title: National Work Plans and Report Tool
+Version: 0.0.1
+Authors@R: 
+    c(person(given = "Mathieu",
+            family = "Depetris",
+            email = "mathieu.depetris@ird.fr",
+            role = c("aut", "cre"),
+            comment = c(ORCID = "0000-0001-8080-0531")),    person(given = "Julien",
+           family = "Lebranchu",
+           email = "julien.lebranchu@ird.fr",
+           role = c("aut"),
+           comment = c(ORCID = "0000-0002-7759-0534")),    person(given = "IRD - Ob7",
+           family = "Observatory of Exploited Tropical Pelagic Ecosystems",
+           email = "ob7@ird.fr",
+           role = c("ctb", "fnd"),
+           comment = c(ORCID = "0000-0002-4642-3418")))
+Description: R toolbox package for the National Work Plan and Report for the contribution to the IRD's DCF.
+Encoding: UTF-8
+LazyData: true
+License: GPL-3 + file LICENSE
+RoxygenNote: 7.2.3
+VignetteBuilder: knitr
+URL: https://ob7-ird.github.io/nwpnrtool/
+BugReports: https://github.com/OB7-IRD/nwpnrtool/issues
+Imports: 
+    dplyr (>= 1.0.10),
+    magrittr,
+    stringr (>= 1.5.0),
+    tidyr (>= 1.2.1),
+    utils
+Suggests: 
+    knitr (>= 1.39),
+    markdown (>= 1.1)
