@@ -14,7 +14,7 @@ knitr::opts_chunk$set(
 options(tibble.print_min = 5, tibble.print_max = 5)
 ```
 
-# nwpnrtool R package <a href='https://ob7-ird.github.io/nwpnrtool'><img src="man/figures/logo_nwpnrtool.png" align="right"/></a>
+# nwpnrtool R package <a href='https://ob7-ird.github.io/nwpnrtool'><img src="man/figures/logo_nwpnrtool.png" width="250px" align="right"/></a>
 
 <!-- badges: start -->
 

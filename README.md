@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file and click on Knit button at the end. -->
 
-# nwpnrtool R package <a href='https://ob7-ird.github.io/nwpnrtool'><img src="man/figures/logo_nwpnrtool.png" align="right"/></a>
+# nwpnrtool R package <a href='https://ob7-ird.github.io/nwpnrtool'><img src="man/figures/logo_nwpnrtool.png" width="250px" align="right"/></a>
 
 <!-- badges: start -->
 
